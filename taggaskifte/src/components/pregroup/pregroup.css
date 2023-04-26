@@ -1,0 +1,9 @@
+.pgImg {
+    position: relative;
+    top: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1080px;
+    max-height: 81vh;
+}
+

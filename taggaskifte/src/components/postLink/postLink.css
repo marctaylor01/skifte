@@ -1,0 +1,74 @@
+
+a.pg-link {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    content-visibility: hidden;
+}
+
+a.chief{
+    top: 100px;
+    left: 445px;
+}
+
+a.cash {
+    top: 120px;
+    left: 560px;
+}
+
+a.trykk-emma {
+    top: 350px;
+    left: 740px;
+}
+
+a.trykk-simon {
+    top: 550px;
+    left: 410px;
+}
+
+a.webb {
+    left: -145px;
+    top: 500px;
+}
+
+a.mos {
+    top: 340px;
+    left: -65px;
+}
+
+a.prolk {
+    top: 430px;
+    left: -45px;
+}
+
+a.spons {
+    top: 450px;
+    left: 165px;
+}
+
+a.öl-bar {
+    top: 170px;
+    left: -620px;
+}
+
+a.prevent {
+    top: 150px;
+    left: -10px;
+}
+
+a.biljett {
+    top: 200px;
+    left: 50px;
+}
+
+a.werk {
+    top: 420px;
+    left: -75px;
+}
+
+a.j4 {
+    top: 220px;
+    left: 500px;
+}
