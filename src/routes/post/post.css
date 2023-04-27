@@ -1,0 +1,30 @@
+div.post {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20vw;
+    height: 87vh;
+}
+
+div.post-img {
+    display: inline-block;
+    position: relative;
+    width: 320px;
+    height: 75vh;
+    left: 15vw;
+    top: 10vh;
+    max-height: 71vh;
+}
+
+div.text-container {
+    position: relative;
+    background-color: #D9D9D9;
+    width: 30vw;
+    height: 35vh;
+    opacity: 40%;
+    top: 30vh;
+    padding: 10px;
+}
+
+div.title {
+    font-size: 30px;
+}
