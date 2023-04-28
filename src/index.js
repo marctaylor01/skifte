@@ -11,59 +11,59 @@ import webbImg from './images/webb.jpg'
 import ölBarImg from './images/öl&bar.jpg'
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/skifte',
     element: <Home />
   },
   {
-    path: '/webb&öd',
+    path: '/skifte/webb&öd',
     element: <PostSpecific title='Webb & ÖD' text={data.webb} image={webbImg}/>
   },
   {
-    path: '/q',
+    path: '/skifte/q',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/ken',
+    path: '/skifte/ken',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/trykk/queen',
+    path: '/skifte/trykk/queen',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/trykk/king',
+    path: '/skifte/trykk/king',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/mos',
+    path: '/skifte/mos',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/prolk',
+    path: '/skifte/prolk',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/spons',
+    path: '/skifte/spons',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/öl&bar',
+    path: '/skifte/öl&bar',
     element: <PostSpecific title='Öl & Bar' text={data.webb} image={ölBarImg}/>
   },
   {
-    path: '/pr&event',
+    path: '/skifte/pr&event',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/biljett&u-lag',
+    path: '/skifte/biljett&u-lag',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/werk',
+    path: '/skifte/werk',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   },
   {
-    path: '/j4',
+    path: '/skifte/j4',
     element: <PostSpecific title='Webb & ÖD' text={data.webb}/>
   }
 ])
