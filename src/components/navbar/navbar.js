@@ -6,7 +6,7 @@ export default function Navbar () {
     <>
       <div className='navbar-container'>
         <div className='navbar-texts'>
-          <a className='title' href='/'>Tagga SKIFTE!!</a>
+          <a className='title' href='/skifte'>Tagga SKIFTE!!</a>
         </div>
         <div className='links'>
           <a className='dg-songs' href='https://soundcloud.com/d-group' activeStyle target='_blank'>
