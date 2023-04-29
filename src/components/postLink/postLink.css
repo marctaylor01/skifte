@@ -11,6 +11,7 @@ a.pg-link {
 a.pg-link:hover{
     background-color: aliceblue;
     opacity: 30%;
+    transition: 0.5s;
 }
 a.chief{
     top: 60px;

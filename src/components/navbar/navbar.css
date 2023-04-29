@@ -29,6 +29,7 @@ div.links a {
     display: flex;
     align-items: center;
     text-decoration: none;
+    color: #8B1D1D;
     padding: 0 1rem;
     cursor: pointer;
 }

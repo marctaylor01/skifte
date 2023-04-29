@@ -9,7 +9,7 @@ export default function Home () {
     <>
       <div
         className='bg' style={
-            { backgroundImage: `url(${background})`, height: '100vh', backgroundRepeat: 'no-repeat' }
+            { backgroundImage: `url(${background})`, backgroundPosition: 'center', backgroundSize: 'cover', height: '100vh', backgroundRepeat: 'no-repeat' }
 }
       >
         <NavigationBar />
