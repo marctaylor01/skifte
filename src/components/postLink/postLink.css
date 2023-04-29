@@ -3,26 +3,27 @@ a.pg-link {
     position: relative;
     display: inline-block;
     width: 100px;
-    height: 100px;
+    height: 150px;
+    border-radius: 50%;
     text-align: center;
-    content-visibility: hidden;
 }
 
 a.pg-link:hover{
-    color: red;
+    background-color: aliceblue;
+    opacity: 30%;
 }
 a.chief{
-    top: 100px;
+    top: 60px;
     left: 445px;
 }
 
 a.cash {
-    top: 120px;
-    left: 560px;
+    top: 100px;
+    left: 550px;
 }
 
 a.trykk-emma {
-    top: 350px;
+    top: 310px;
     left: 740px;
 }
 
@@ -57,21 +58,21 @@ a.öl-bar {
 }
 
 a.prevent {
-    top: 150px;
+    top: 120px;
     left: -10px;
 }
 
 a.biljett {
-    top: 200px;
+    top: 135px;
     left: 50px;
 }
 
 a.werk {
-    top: 420px;
+    top: 350px;
     left: -75px;
 }
 
 a.j4 {
-    top: 220px;
+    top: 150px;
     left: 500px;
 }
