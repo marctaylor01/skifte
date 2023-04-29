@@ -8,7 +8,8 @@ div.post {
 div.post-img {
     display: inline-block;
     position: relative;
-    width: 320px;
+    width: 500px;
+    max-width: 40vw;
     height: 75vh;
     left: 15vw;
     top: 10vh;
@@ -26,5 +27,9 @@ div.text-container {
 }
 
 div.title {
-    font-size: 30px;
+    font-size: 70px;
+}
+
+div.text {
+    font-size: 20px;
 }
