@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/skifte/static/css/main.407a68db.css",
-    "main.js": "/skifte/static/js/main.35144d27.js",
+    "main.js": "/skifte/static/js/main.5522c39c.js",
     "static/js/787.7dd8d32c.chunk.js": "/skifte/static/js/787.7dd8d32c.chunk.js",
+    "static/media/song.mp3": "/skifte/static/media/song.daf10e27a3587c82ff76.mp3",
     "static/media/background.jpg": "/skifte/static/media/background.097e13223ff0656dc381.jpg",
     "static/media/pregroup.jpg": "/skifte/static/media/pregroup.e0010cf001971d50e73b.jpg",
     "static/media/chief.jpg": "/skifte/static/media/chief.6599d020aaf6b5de6487.jpg",
@@ -15,11 +16,11 @@
     "static/media/logo.svg": "/skifte/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/skifte/index.html",
     "main.407a68db.css.map": "/skifte/static/css/main.407a68db.css.map",
-    "main.35144d27.js.map": "/skifte/static/js/main.35144d27.js.map",
+    "main.5522c39c.js.map": "/skifte/static/js/main.5522c39c.js.map",
     "787.7dd8d32c.chunk.js.map": "/skifte/static/js/787.7dd8d32c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.407a68db.css",
-    "static/js/main.35144d27.js"
+    "static/js/main.5522c39c.js"
   ]
 }
