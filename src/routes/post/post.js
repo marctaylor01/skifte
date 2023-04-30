@@ -8,7 +8,7 @@ export default function PostSpecific (props) {
       <>
         <div
           className='bg' style={
-              { backgroundImage: `url(${background})`, backgroundRepeat: 'no-repeat' }
+            { backgroundImage: `url(${background})`, backgroundPosition: 'center', backgroundSize: 'cover', height: '100vh', backgroundRepeat: 'no-repeat' }
   }
         >
           <NavigationBar />
