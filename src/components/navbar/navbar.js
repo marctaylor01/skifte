@@ -9,10 +9,8 @@ export default function Navbar () {
   function playSong() {
     if (!isPlaying) {
       setPlaying(true);
-
+      audio.play();
     }
-    //let song = new Audio(song);
-    //song.play()
   }
   
   return (
