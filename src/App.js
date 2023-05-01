@@ -13,6 +13,7 @@ import kenImg from './images/cash.jpg'
 import werkImg from './images/werk.jpg'
 import biljettImg from './images/biljett&u-lag.jpg'
 import notFoundImg from './images/notFound.jpg'
+import preventImg from './images/prevent.jpg'
 
 const App = () => (
   <HashRouter>
@@ -70,7 +71,7 @@ const App = () => (
       <Route
         exact
         path='/pr&event'
-        element= {<PostSpecific title='PR & Event' text={data.prevent} image={notFoundImg}/>}
+        element= {<PostSpecific title='PR & Event' text={data.prevent} image={preventImg}/>}
       />
       <Route
         exact
