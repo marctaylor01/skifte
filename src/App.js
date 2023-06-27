@@ -26,7 +26,7 @@ const App = () => (
       <Route
         exact
         path='/webb&öd'
-        element= {<PostSpecific title='Webb & ÖD' text={data.webb} image={webbImg}/>}
+        element= {<PostSpecific title='Webb & ÖD TEST' text={data.webb} image={webbImg}/>}
       />
       <Route
         exact
